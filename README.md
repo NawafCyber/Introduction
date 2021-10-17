@@ -1,2 +1,5 @@
-# Introduction
-Just for test
+- 👋 Hi, I’m @NawafCyber
+- 👀 I’m interested in Cyper Security 🔒 , Programming 💻 
+- 🌱 I’m currently learning Django Python 🐍 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
